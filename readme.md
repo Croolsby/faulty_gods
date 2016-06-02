@@ -1,7 +1,7 @@
 Faulty Gods
 ===
 
-This is a little prototype I made for my first time doing Ludum Dare. It was Ludum Dare 32 "Unconventional Weapon". I only spent 3 days on this. It still has bugs. It was inspired by Geometry Wars.
+This is a little prototype I made for my first time doing Ludum Dare. It was Ludum Dare 32 "Unconventional Weapon". I only spent 3 days on this, so there are still some bugs I didn't fix. It was inspired by Geometry Wars.
 
 Here is a video of gameplay: https://youtu.be/v8f3zgB7fkE
 
